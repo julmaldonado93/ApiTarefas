@@ -1,8 +1,5 @@
 # API Django REST Framework - Gerenciador de Tarefas
 
-> ⚠️ Este projeto foi desenvolvido exclusivamente para fins de estudo e prática,
-> como parte do meu aprendizado em Python, Django e Django REST Framework.
-
 ## 📋 Sobre o Projeto
 
 API REST de gerenciamento de tarefas desenvolvida com Django REST Framework.
