@@ -77,6 +77,4 @@ http://127.0.0.1:8000/api/
 | completo | BooleanField | Status da tarefa (True/False) |
 | data_criacao | DateTimeField | Gerada automaticamente |
 
-## 👨‍💻 Autor
 
-Julio Maldonado - [GitHub](https://github.com/julmaldonado93)
